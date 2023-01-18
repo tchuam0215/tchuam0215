@@ -9,10 +9,11 @@ I'm Charles Tchuenkam, a Computer Engineer specialized in data engineering, data
 
 <!--- just --->
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=csharp)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tchuam0215&count_private=true&show_icons=true&include_all_commits=true)
 
