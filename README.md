@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Charles Tchuenkam, a Computer Engineer specialized in data engineering, data analysis and computer vision.
+
+📫 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-bhimrazy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhimrazy/)](https://www.linkedin.com/in/bhimrazy/)
 <!--
 **tchuam0215/tchuam0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
