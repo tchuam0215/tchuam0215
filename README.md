@@ -9,7 +9,7 @@ I'm Charles Tchuenkam, a Computer Engineer specialized in data engineering, data
 
 <!--- just --->
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C#](https://img.shields.io/badge/-C#-black?style=flat-square&logo=c#)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
