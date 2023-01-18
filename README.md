@@ -2,8 +2,22 @@
 
 I'm Charles Tchuenkam, a Computer Engineer specialized in data engineering, data analysis and computer vision.
 
-📫 How to reach me:
+📫 How to reach me :
 * [![Linkedin Badge](https://img.shields.io/badge/-bhimrazy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhimrazy/)](https://www.linkedin.com/in/bhimrazy/)
+
+## ⚡ Technologies
+
+<!--- just --->
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tchuam0215&count_private=true&show_icons=true&include_all_commits=true)
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=tchuam0215&color=green)
+
 <!--
 **tchuam0215/tchuam0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
