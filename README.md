@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Charles Tchuenkam, a Computer Engineer specialized in data engineering, data analysis and computer vision.
+I'm Charles Tchuenkam, a Computer Engineer interested in data engineering, i have also worked on various other field such as computer vision.
 
 📫 How to reach me :
 * [![Linkedin Badge](https://img.shields.io/badge/-Charles_Tchuenkam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charles-tchuenkam-61153114b/)](https://www.linkedin.com/in/charles-tchuenkam-61153114b/)
